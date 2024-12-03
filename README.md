@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sanjith7760!
+# 👋 Hi, I’m Sanjith Kumar H R!
 
 Welcome to my GitHub profile! I am a passionate and dynamic IT fresher with a strong academic foundation and a keen interest in building innovative solutions in the field of information technology.
 
