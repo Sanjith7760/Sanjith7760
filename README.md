@@ -35,7 +35,7 @@ He/Him
 
 ## ⚡ Fun Fact
 I love exploring new technologies and am always eager to learn something new. In my free time, I enjoy coding and contributing to open-source projects!
-
+  
 ---
 
 "As a passionate and dynamic IT fresher, my career objective is to leverage my strong academic foundation and technical skills to contribute effectively to a cutting-edge IT environment. 
