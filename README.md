@@ -11,12 +11,15 @@ I am particularly interested in:
 
 ## 🌱 Currently Learning
 I am currently expanding my knowledge in:
-- **Programming Languages**: Python, Java, JavaScript
+- **Programming Languages**: C, Python, Java, JavaScript
 - **Web Development Technologies**:
-  - **HTML & CSS**: The building blocks of web development for creating structured and styled web pages.
+  - **HTML & CSS & React**: The building blocks of web development for creating structured and styled web pages.
   - **Web Development Frameworks**:
-    - **Java**: Spring, Spring Boot, Hibernate, JDBC
+    - **Java**: Spring, Spring Boot, Hibernate, JDBC, Maven, Servlets
+    - **Database**: MySQL
 - **Cloud Technologies**: AWS
+- **AI Enthuastic**
+- **OOPS**
 - **Data Structures and Algorithms**
 
 ## 💞️ Collaboration
