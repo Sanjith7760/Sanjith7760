@@ -30,7 +30,7 @@ I am looking to collaborate on:
 
 ## 📫 How to Reach Me
 Feel free to connect with me through:
-- [LinkedIn](www.linkedin.com/in/sanjith-kumar-h-r-102687205)
+- [LinkedIn](http://www.linkedin.com/in/Sanjith7760)
 - [Email](sanjith.hangala@gmail.com)
 
 ## 😄 Pronouns
