@@ -53,7 +53,7 @@ const sanjithKumarHR = {
 console.log("Welcome to my digital journey! Let's build something amazing together! ✨");
 ```
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
 </div>
 
 ## 🎯 What I'm Up To
@@ -148,12 +148,10 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 
 </div>
  
-<div align="center">
 
 ## 🌟 Featured Projects Portfolio
-
-
-
+<div align="center">
+  
 ### 🚀 My Latest Innovations
 
 <table>
@@ -188,9 +186,9 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 </table>
 
 </div>
-<div align="center">
+
 ## 🏆 GitHub Achievements & Recognition
- 
+ <div align="center">
   
 ### 🎖️ Trophy Collection
   
@@ -203,10 +201,9 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 </div>
 
 </div>
-<div align="center">
   
 ## 🤝 Let's Connect & Collaborate!
-
+ <div align="center">
   
 ### 🌟 I'm Actively Looking For:
 - 🚀 **Open-source projects** to contribute to and make a meaningful impact
@@ -215,7 +212,7 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 - 🤝 **Collaboration opportunities** with passionate developers and teams
 - 📚 **Mentorship** to learn from industry experts and thought leaders
 
-<div align="center">
+
   
 ### 📬 Connect With Me Across Platforms
 
