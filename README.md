@@ -17,10 +17,6 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=☕+Java+Full-Stack+Developer;Building+Enterprise+Solutions;Object-Oriented+Programming+Expert" alt="Java Developer" />
-</div>
-
-<div align="center">
   
 ### 🌟 Transforming Ideas into Digital Reality
   
@@ -57,7 +53,7 @@ const sanjithKumarHR = {
 console.log("Welcome to my digital journey! Let's build something amazing together! ✨");
 ```
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
 </div>
 
 ## 🎯 What I'm Up To
@@ -135,7 +131,9 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
-
+ 
+<div align="center">
+  
 ### 💻 Programming Mastery
 <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css&theme=dark" />
 
@@ -149,16 +147,11 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 <img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,mongodb,redis,nginx&theme=dark" />
 
 </div>
-
+ 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
 
 ## 🌟 Featured Projects Portfolio
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C03&center=true&vCenter=true&width=300&height=100&lines=☕+Java+Developer;Coffee+%2B+Code+%3D+❤️;public+static+void+main();System.out.println(%22Hello%22);" alt="Java Animation" />
-</div>
 <div align="center">
 
 ### 🚀 My Latest Innovations
@@ -197,7 +190,8 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 </div>
 
 ## 🏆 GitHub Achievements & Recognition
-
+ 
+<div align="center">
   
 ### 🎖️ Trophy Collection
   
@@ -213,7 +207,8 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 
 ## 🤝 Let's Connect & Collaborate!
 
-
+<div align="center">
+  
 ### 🌟 I'm Actively Looking For:
 - 🚀 **Open-source projects** to contribute to and make a meaningful impact
 - 💡 **Innovative tech solutions** to build and architect from ground up
