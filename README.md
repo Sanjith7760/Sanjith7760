@@ -5,19 +5,19 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="950">
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="950">
 </div>
 
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=☕+Java+Full-Stack+Developer;Building+Enterprise+Solutions;Object-Oriented+Programming+Expert" alt="Java Developer" />
 </div>
 
 <div align="center">
@@ -56,9 +56,8 @@ const sanjithKumarHR = {
 
 console.log("Welcome to my digital journey! Let's build something amazing together! ✨");
 ```
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 </div>
 
 ## 🎯 What I'm Up To
@@ -96,9 +95,6 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
 
 ## 📊 GitHub Analytics & Performance
 
@@ -127,15 +123,18 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 ### 📈 Contribution Activity Graph
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjith7760&custom_title=Sanjith's%20GitHub%20Activity%20Graph&theme=tokyo-night&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&area_color=F85D7F" alt="GitHub Activity Graph" />
 
+### 💻 Development Metrics
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sanjith7760&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&border_color=30363D" alt="GitHub Contributor Stats" />
+</div>
+
 </div>
 
 ## 🎨 Skills & Technologies Showcase
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
-
-<div align="center">
 
 ### 💻 Programming Mastery
 <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css&theme=dark" />
@@ -158,9 +157,8 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 ## 🌟 Featured Projects Portfolio
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C03&center=true&vCenter=true&width=300&height=100&lines=☕+Java+Developer;Coffee+%2B+Code+%3D+❤️;public+static+void+main();System.out.println(%22Hello%22);" alt="Java Animation" />
 </div>
-
 <div align="center">
 
 ### 🚀 My Latest Innovations
@@ -200,11 +198,6 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 
 ## 🏆 GitHub Achievements & Recognition
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
-
-<div align="center">
   
 ### 🎖️ Trophy Collection
   
@@ -220,11 +213,6 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 
 ## 🤝 Let's Connect & Collaborate!
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-</div>
-
-<div align="center">
 
 ### 🌟 I'm Actively Looking For:
 - 🚀 **Open-source projects** to contribute to and make a meaningful impact
@@ -248,7 +236,7 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/sanjith7760" target="_blank">
+  <a href="https://instagram.com/_sanjith17_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://codepen.io/Sanjith7760" target="_blank">
@@ -257,7 +245,7 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
   <a href="https://www.hackerrank.com/profile/sanjith_hangala" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/sanjith7760/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/sanjithhi4on/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </div>
