@@ -152,7 +152,7 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 
 ## 🌟 Featured Projects Portfolio
 
-<div align="center">
+
 
 ### 🚀 My Latest Innovations
 
@@ -188,10 +188,9 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 </table>
 
 </div>
-
+<div align="center">
 ## 🏆 GitHub Achievements & Recognition
  
-<div align="center">
   
 ### 🎖️ Trophy Collection
   
@@ -204,10 +203,10 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 </div>
 
 </div>
-
+<div align="center">
+  
 ## 🤝 Let's Connect & Collaborate!
 
-<div align="center">
   
 ### 🌟 I'm Actively Looking For:
 - 🚀 **Open-source projects** to contribute to and make a meaningful impact
@@ -216,6 +215,8 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 - 🤝 **Collaboration opportunities** with passionate developers and teams
 - 📚 **Mentorship** to learn from industry experts and thought leaders
 
+<div align="center">
+  
 ### 📬 Connect With Me Across Platforms
 
 <div align="center">
