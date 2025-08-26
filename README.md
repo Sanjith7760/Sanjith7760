@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ## 🚀 About Me
@@ -20,11 +20,12 @@
   
 ### 🌟 Transforming Ideas into Digital Reality
   
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
 
 </div>
 
-<div align="center">
+<details>
+<summary>💻 Click to view my complete profile! 🚀</summary>
 
 ```javascript
 const sanjithKumarHR = {
@@ -37,13 +38,19 @@ const sanjithKumarHR = {
     },
     
     passion: {
-        coreValues: ["Problem Solving 🧩", "Innovation 💡", "Collaboration 🤝", "Continuous Learning 📚"],
+        coreValues: [
+            "Problem Solving 🧩", 
+            "Innovation 💡", 
+            "Collaboration 🤝", 
+            "Continuous Learning 📚"
+        ],
         mission: "Building meaningful contributions to Information Technology 🌐",
         vision: "Transforming complex problems into elegant solutions ⚡",
         motto: "Code with purpose, innovate with passion! 💻✨"
     },
     
-    currentObjective: "🎯 Seeking opportunities to leverage technical skills and contribute to innovative projects",
+    currentObjective: `🎯 Seeking opportunities to leverage technical skills 
+                      and contribute to innovative projects`,
     
     personalTraits: {
         mindset: "Growth-oriented 📈",
@@ -52,18 +59,33 @@ const sanjithKumarHR = {
         adaptability: "Quick learner ⚡"
     },
     
-    superPowers: ["☕ Coffee-driven development", "🌙 Late-night coding sessions", "🔧 Bug-hunting expertise"],
+    superPowers: [
+        "☕ Coffee-driven development", 
+        "🌙 Late-night coding sessions", 
+        "🔧 Bug-hunting expertise",
+        "🚀 Rapid prototype development",
+        "💡 Creative problem solving"
+    ],
     
-    lifePhilosophy: "Always eager to learn and collaborate on innovative projects that make a difference! 🚀"
+    getCurrentStatus: () => {
+        return "🎯 Open for exciting opportunities & collaborations!";
+    },
+    
+    lifePhilosophy: `Always eager to learn and collaborate on innovative 
+                     projects that make a difference! 🚀`
 };
 
+// Initialize the journey
 console.log("🎉 Welcome to my digital journey! Let's build something amazing together! ✨");
+console.log(sanjithKumarHR.getCurrentStatus());
+
+// Let's connect and create magic! ✨
 ```
 
-</div>
+</details>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700">
 </div>
 
 ## 🎯 What I'm Up To
@@ -76,7 +98,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 
 ### 🔭 My Core Programming Arsenal
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-4ECDC4?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
@@ -86,7 +108,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 
 ### 🌐 Frontend Mastery
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-4A90E2?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
@@ -97,7 +119,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 
 ### 🏗️ Backend & Framework Universe
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=000000)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white&labelColor=000000)
@@ -106,7 +128,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+<div align="center">
 
 ![JDBC](https://img.shields.io/badge/JDBC-4A90E2?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
 ![Servlet](https://img.shields.io/badge/Servlet-F39C12?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
@@ -116,7 +138,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 
 ### ☁️ Cloud & Database Technologies
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
 ![MySQL](https://img.shields.io/badge/MySQL-4A90E2?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
@@ -137,7 +159,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d3.gif" width="120">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120">
 </div>
 
 <div align="center">
@@ -147,28 +169,28 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 <table style="border: none;">
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjith7760&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&border_color=FF6B35&custom_title=Sanjith's%20GitHub%20Stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjith7760&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&border_color=FF6B35&custom_title=Sanjith's%20Stats&hide_border=false"/>
     </td>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjith7760&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_color=FF6B35&hide=jupyter%20notebook&custom_title=Language%20Mastery"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjith7760&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_color=FF6B35&hide=jupyter%20notebook&custom_title=Language%20Usage&hide_border=false"/>
     </td>
   </tr>
 </table>
 
 ### 🔥 Coding Streak & Activity
-<img width="100%" src="https://streak-stats.demolab.com?user=Sanjith7760&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B6B&fire=4ECDC4&currStreakNum=FFFFFF&sideNums=4ECDC4&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=FFFFFF&border_radius=15" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjith7760&theme=radical&hide_border=false&background=0D1117&stroke=FF6B35&ring=FF6B6B&fire=4ECDC4&currStreakNum=FFFFFF&sideNums=4ECDC4&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=FFFFFF&border_radius=15" alt="GitHub Streak" />
 
 ### 📈 Contribution Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjith7760&custom_title=Sanjith's%20Contribution%20Timeline&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&area_color=FF6B6B&radius=15" alt="GitHub Activity Graph" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Sanjith7760&custom_title=Sanjith's%20Contribution%20Timeline&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&area_color=FF6B6B" alt="GitHub Activity Graph" />
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjith7760&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjith7760&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ### 💫 Profile Summary Card
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjith7760&theme=radical&hide_border=true" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjith7760&theme=radical&hide_border=false" alt="GitHub Profile Summary" />
 </div>
 
 </div>
@@ -180,7 +202,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120">
 </div>
  
 <div align="center">
@@ -219,7 +241,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
       <h3>🛒 SalesSavvy Backend</h3>
       <div align="center">  
         <a href="https://github.com/Sanjith7760/SalesSavvyBacktEnd-Java-SpringBoot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjith7760&repo=SalesSavvyBacktEnd-Java-SpringBoot&theme=radical&border_radius=15&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_color=FF6B35" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjith7760&repo=SalesSavvyBacktEnd-Java-SpringBoot&theme=radical&border_radius=15&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_color=FF6B35&hide_border=false" />
         </a>
       </div>
       <p align="center">
@@ -235,7 +257,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
       <h3>⚛️ SalesSavvy Frontend</h3>
       <div align="center">
         <a href="https://github.com/Sanjith7760/SalesSavvyFrontEnd-React-Vite" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjith7760&repo=SalesSavvyFrontEnd-React-Vite&theme=radical&border_radius=15&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_color=FF6B35" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjith7760&repo=SalesSavvyFrontEnd-React-Vite&theme=radical&border_radius=15&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_color=FF6B35&hide_border=false" />
         </a>
       </div>
       <p align="center">
@@ -269,22 +291,22 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-open-source-no-code-flaticons-flat-flat-icons.png" width="64px"><br/>
+      <img src="https://cdn-icons-png.flaticon.com/128/9850/9850774.png" width="64px"><br/>
       <strong>🚀 Open Source Projects</strong><br/>
       <em>Making meaningful contributions to the community</em>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/innovation.png" width="64px"><br/>
+      <img src="https://cdn-icons-png.flaticon.com/128/3588/3588433.png" width="64px"><br/>
       <strong>💡 Innovation Labs</strong><br/>
       <em>Building cutting-edge tech solutions</em>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/challenges.png" width="64px"><br/>
+      <img src="https://cdn-icons-png.flaticon.com/128/2920/2920277.png" width="64px"><br/>
       <strong>🌟 Epic Challenges</strong><br/>
       <em>Pushing boundaries and accelerating growth</em>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/collaboration.png" width="64px"><br/>
+      <img src="https://cdn-icons-png.flaticon.com/128/681/681494.png" width="64px"><br/>
       <strong>🤝 Dream Teams</strong><br/>
       <em>Collaborating with passionate developers</em>
     </td>
@@ -297,7 +319,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
 
 <a href="http://sanjithkumarhr.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000" alt="Portfolio" />
@@ -311,7 +333,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
 
 <a href="https://instagram.com/_sanjith17_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" />
@@ -331,7 +353,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d3.gif" width="120">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120">
 </div>
 
 ## 💝 Personal Philosophy & Fun Facts
@@ -341,57 +363,66 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
   
   <br/><br/>
   
   ### ✨ What Drives Me
   
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px 0; color: white;">
-    <h3>🎯 "I love exploring new technologies and am always eager to learn something new in my free time. I enjoy coding and contributing to open-source projects!" 🚀</h3>
-  </div>
+> ### 🎯 "I love exploring new technologies and am always eager to learn something new in my free time. I enjoy coding and contributing to open-source projects!" 🚀
   
   <br/>
   
   ### 🌈 My Mission Statement
   
-  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 25px; margin: 20px 0; color: white;">
-    <p align="center">
-      <em><strong>As a passionate and dynamic IT fresher, my career objective is to leverage my strong academic foundation and technical skills to contribute effectively to innovative projects. I aim to continuously learn and adapt to emerging technologies while collaborating with a talented team to solve complex problems and drive innovation.</strong></em>
-    </p>
-  </div>
+> **As a passionate and dynamic IT fresher, my career objective is to leverage my strong academic foundation and technical skills to contribute effectively to innovative projects. I aim to continuously learn and adapt to emerging technologies while collaborating with a talented team to solve complex problems and drive innovation.**
   
   <br/>
   
   ### 🔮 Vision for the Future
   
-  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 25px; margin: 20px 0; color: white;">
-    <p align="center">
-      <strong>Building tomorrow's solutions today, one line of code at a time! 💻✨</strong>
-    </p>
-  </div>
+> **Building tomorrow's solutions today, one line of code at a time! 💻✨**
 
 ### 🎮 Fun Developer Facts About Me
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/coffee-to-go.png" width="48px"><br/>
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="48px"><br/>
       <strong>☕ Coffee Consumption</strong><br/>
       <em>Infinite cups per coding session</em>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/code.png" width="48px"><br/>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="48px"><br/>
       <strong>🌙 Night Owl Coder</strong><br/>
       <em>Best code happens after midnight</em>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/bug.png" width="48px"><br/>
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="48px"><br/>
       <strong>🐛 Bug Hunter</strong><br/>
       <em>Turning bugs into features since day 1</em>
     </td>
   </tr>
 </table>
+
+### 🎯 Quick Stats About Me
+
+<div align="center">
+
+```javascript
+const quickStats = {
+    🎯 currentFocus: "Full-Stack Development with Java & React",
+    🏆 biggestAchievement: "Building end-to-end web applications",
+    📚 currentlyLearning: ["Microservices", "Docker", "Kubernetes"],
+    🎵 codingPlaylist: ["Lo-fi Hip Hop", "Synthwave", "Classical"],
+    🍕 fuelOfChoice: ["Coffee", "Pizza", "Energy Drinks"],
+    💭 lifeMotto: "Code. Learn. Repeat. 🔄"
+};
+
+console.log("That's me in a nutshell! 🥜");
+```
+
+</div>
   
 </div>
 
@@ -399,7 +430,7 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
 
 <div align="center">
   
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 30px 0;">
+<div align="center" style="margin: 30px 0;">
 
 <img src="https://komarev.com/ghpvc/?username=Sanjith7760&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Sanjith7760?style=for-the-badge&color=4ECDC4&labelColor=000000&logo=github" alt="GitHub Followers" />
@@ -412,13 +443,11 @@ console.log("🎉 Welcome to my digital journey! Let's build something amazing t
   
   <br/>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="600">
   
   <br/><br/>
   
-  <div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); border-radius: 25px; padding: 20px; margin: 20px 0;">
-    <h3>🙏 Thank you for visiting my profile! Happy coding! 💻❤️</h3>
-  </div>
+> ### 🙏 Thank you for visiting my profile! Happy coding! 💻❤️
   
 </div>
 
