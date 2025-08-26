@@ -58,9 +58,6 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 
 ## 🎯 What I'm Up To
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-</div>
 
 <div align="center">
 
@@ -187,20 +184,6 @@ console.log("Welcome to my digital journey! Let's build something amazing togeth
 
 </div>
 
-## 🏆 GitHub Achievements & Recognition
- <div align="center">
-  
-### 🎖️ Trophy Collection
-  
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sanjith7760&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=4&row=2&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&border_color=30363D" />
-
-### 📊 Development Insights
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sanjith7760&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&border_color=30363D" alt="GitHub Contributor Stats" />
-</div>
-
-</div>
   
 ## 🤝 Let's Connect & Collaborate!
  <div align="center">
