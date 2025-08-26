@@ -20,8 +20,9 @@
   
 ### 🌟 Transforming Ideas into Digital Reality
   
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG9pbDZka2c1eHVqNWF3Mjd4MWJpdTZncTNpenpkMmNrY2RwOTNsMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i4MAH84pqe2m2aVojc/giphy.gif" width="100">
+</div>
 </div>
 
 <details>
@@ -85,7 +86,7 @@ console.log(sanjithKumarHR.getCurrentStatus());
 </details>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4yMHZnbWNrZzJ0ZGJ3ZTcwMWV1OGx1bG82ZjZhemswMnBrcjF2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LyV4cw0vDtAgc8xTHQ/giphy.gif" width="700">
 </div>
 
 ## 🎯 What I'm Up To
@@ -358,12 +359,9 @@ console.log(sanjithKumarHR.getCurrentStatus());
 
 ## 💝 Personal Philosophy & Fun Facts
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Philosophy%20%26%20Fun&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
-</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
+ 
   
   <br/><br/>
   
@@ -443,7 +441,7 @@ console.log("That's me in a nutshell! 🥜");
   
   <br/>
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHJhZmcwaXA3OWpvN3loZG00djNzNjdsYmFpNG53MjB4bncwaDEyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="500">
   
   <br/><br/>
   
@@ -451,6 +449,3 @@ console.log("That's me in a nutshell! 🥜");
   
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=80&desc=Keep%20Coding%20%26%20Stay%20Awesome!&descAlignY=100&descSize=16" width="100%"/>
-</div>
