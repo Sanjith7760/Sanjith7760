@@ -9,10 +9,15 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
+
+
 
 ## 🚀 About Me
 
@@ -25,8 +30,6 @@
 </div>
 </div>
 
-<details>
-<summary>💻 Click to view my complete profile! 🚀</summary>
 
 ```javascript
 const sanjithKumarHR = {
@@ -83,11 +86,8 @@ console.log(sanjithKumarHR.getCurrentStatus());
 // Let's connect and create magic! ✨
 ```
 
-</details>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4yMHZnbWNrZzJ0ZGJ3ZTcwMWV1OGx1bG82ZjZhemswMnBrcjF2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LyV4cw0vDtAgc8xTHQ/giphy.gif" width="700">
-</div>
+
 
 ## 🎯 What I'm Up To
 
