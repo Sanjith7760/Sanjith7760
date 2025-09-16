@@ -273,6 +273,29 @@ console.log(sanjithKumarHR.getCurrentStatus());
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="100%" align="center">
+      <h3>💼 Payroll Management System - Full Stack Capstone</h3>
+      <div align="center">  
+        <a href="https://github.com/Sanjith7760/PayrollManagementSystem_Capestone_FullStackProject" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjith7760&repo=PayrollManagementSystem_Capestone_FullStackProject&theme=radical&border_radius=15&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_color=FF6B35&hide_border=false" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white&labelColor=000000" />
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=000000" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=000000" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=000000" />
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white&labelColor=000000" />
+      </p>
+      <p align="center">
+        <em>🔐 Enterprise-grade payroll automation with role-based access control & comprehensive employee management</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <div align="center">
